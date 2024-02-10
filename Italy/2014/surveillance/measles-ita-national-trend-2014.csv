@@ -1,0 +1,11 @@
+"url_bulletins","year","month","new_cases","total_cases","median_age","female_cases","female_percent","male_cases","male_percent","recovered_cases","emergency_room_visit_request","no_vaccination_cases","no_vaccination_percent","first_dose_vaccination"
+"https://github.com/fbranda/measles/blob/main/Italy/2014/bulletins/R%26M_News_2014_02.pdf",2014,"1",266,266,19,136,"51.1",130,"48.9",16,18,243,"91.5",12
+"https://github.com/fbranda/measles/blob/main/Italy/2014/bulletins/R%26M_News_2014_03.pdf",2014,"2",228,494,20,245,"49.6",249,"50.4",65,38,422,"85.4",29
+"https://github.com/fbranda/measles/blob/main/Italy/2014/bulletins/R%26M_News_2014_04.pdf",2014,"3",301,795,21,401,"50.4",394,"49.6",145,71,684,"86.0",45
+"https://github.com/fbranda/measles/blob/main/Italy/2014/bulletins/R%26M_News_2014_05.pdf",2014,"4",252,1047,22,527,"50.3",520,"49.7",239,125,895,"85.5",65
+"https://github.com/fbranda/measles/blob/main/Italy/2014/bulletins/R%26M_News_2014_06.pdf",2014,"5",212,1259,22,631,"50.1",628,"49.9",300,186,1072,"85.1",86
+"https://github.com/fbranda/measles/blob/main/Italy/2014/bulletins/R%26M_News_2014_07.pdf",2014,"6",98,1357,22,681,"50.2",676,"49.8",338,201,1154,"80.0",90
+"https://github.com/fbranda/measles/blob/main/Italy/2014/bulletins/R%26M_News_2014_08.pdf",2014,"8",160,1517,23,765,"50.4",752,"49.6",429,229,1291,"85.1",101
+"https://github.com/fbranda/measles/blob/main/Italy/2014/bulletins/R%26M_News_2014_09.pdf",2014,"9",49,1566,23,790,"50.4",776,"49.6",454,239,1335,"85.2",104
+"https://github.com/fbranda/measles/blob/main/Italy/2014/bulletins/R%26M_News_2014_10.pdf",2014,"10",54,1620,23,821,"50.7",799,"49.3",479,244,1378,"85.1",109
+"https://github.com/fbranda/measles/blob/main/Italy/2014/bulletins/R%26M_News_2014_11_12.pdf",2014,"11_12",41,1661,23,844,"50.8",817,"49.2",492,248,1505,"90.6",123
