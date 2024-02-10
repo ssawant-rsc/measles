@@ -1,0 +1,13 @@
+"url_bulletins","year","month","new_cases","total_cases","median_age","female_cases","female_percent","male_cases","male_percent","recovered_cases","emergency_room_visit_request","no_vaccination_cases","no_vaccination_percent","first_dose_vaccination","second_dose_vaccination"
+"https://github.com/fbranda/measles/blob/main/Italy/2014/bulletins/R%26M_News_2015_12.pdf",2015,1,12,12,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"https://github.com/fbranda/measles/blob/main/Italy/2014/bulletins/R%26M_News_2015_13.pdf",2015,2,21,33,21,NA,NA,NA,NA,4,6,19,"58.1",12,2
+"https://github.com/fbranda/measles/blob/main/Italy/2014/bulletins/R%26M_News_2015_14.pdf",2015,3,15,48,22,NA,NA,NA,NA,6,9,30,"63.0",16,2
+"https://github.com/fbranda/measles/blob/main/Italy/2014/bulletins/R%26M_News_2015_15.pdf",2015,4,18,66,19,36,"54.5",30,"45.5",13,8,49,"74.2",14,2
+"https://github.com/fbranda/measles/blob/main/Italy/2014/bulletins/R%26M_News_2015_16.pdf",2015,5,35,101,19,54,"53.5",47,"46.5",26,14,79,"78.4",18,3
+"https://github.com/fbranda/measles/blob/main/Italy/2014/bulletins/R%26M_News_2015_17.pdf",2015,6,22,123,20,64,"52.0",59,"48.0",36,20,98,"79.7",21,3
+"https://github.com/fbranda/measles/blob/main/Italy/2014/bulletins/R%26M_News_2015_18.pdf",2015,7,17,140,21,74,"52.9",66,"47.1",47,23,112,"79.7",24,3
+"https://github.com/fbranda/measles/blob/main/Italy/2014/bulletins/R%26M_News_2015_19.pdf",2015,8,10,150,21,79,"52.7",71,"47.3",56,23,120,"80.2",25,3
+"https://github.com/fbranda/measles/blob/main/Italy/2014/bulletins/R%26M_News_2015_20.pdf",2015,9,21,171,21,88,"51.5",83,"48.5",65,25,137,"80.1",30,3
+"https://github.com/fbranda/measles/blob/main/Italy/2014/bulletins/R%26M_News_2015_21.pdf",2015,10,1,172,24,85,"49.4",87,"50.6",72,21,145,"84.5",21,4
+"https://github.com/fbranda/measles/blob/main/Italy/2014/bulletins/R%26M_News_2015_22.pdf",2015,11,32,204,23,101,"49.5",103,"50.5",87,30,169,"83.1",26,4
+"https://github.com/fbranda/measles/blob/main/Italy/2014/bulletins/R%26M_News_2015_23.pdf",2015,12,47,251,23,122,"48.6",129,"51.4",107,37,212,"84.4",27,7
