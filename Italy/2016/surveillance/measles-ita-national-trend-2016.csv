@@ -1,0 +1,12 @@
+"url_bulletins","year","month","new_cases","total_cases","median_age","female_cases","female_percent","male_cases","male_percent","recovered_cases","emergency_room_visit_request","no_vaccination_cases","no_vaccination_percent","first_dose_vaccination","first_dose_vaccination_percent","second_dose_vaccination","second_dose_vaccination_percent"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2016_24.pdf",2016,"1",69,69,13,36,"52.2",33,"47.8",NA,NA,52,"89.7",3,"5.2",NA,NA
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2016_25.pdf",2016,"2",72,141,19,77,"54.6",64,"45.4",77,24,110,"89.4",7,"5.7",3,"2.4"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2016_26.pdf",2016,"3",79,220,23,119,"54.1",101,"45.9",116,35,NA,"89.4",NA,"7.2",NA,"2.1"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2016_27_def.pdf",2016,"4",74,294,23,153,"52.0",141,"48.0",151,49,NA,"91.1",NA,"6.6",NA,"0.4"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2016_28.pdf",2016,"5",73,367,21,193,"52.6",174,"47.4",175,64,NA,"90.9",NA,"6.4",NA,"0.6"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2016_29.pdf",2016,"6",67,434,17,223,"51.4",211,"48.6",206,77,NA,"90.5",NA,"6.5",NA,"1.0"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2016_30.pdf",2016,"7_8",106,540,17,267,"49.4",273,"50.6",248,107,NA,"89.4",NA,"6.9",NA,"1.9"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2016_31.pdf",2016,"9",44,584,17,270,"50.0",270,"50.0",246,103,NA,"90.1",NA,"6.5",NA,"1.5"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2016_32.pdf",2016,"10",66,650,18,333,"51.2",317,"48.8",300,120,NA,"90.1",NA,"6.1",NA,"1.9"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2016_33.pdf",2016,"11",76,726,19,377,"51.9",349,"48.1",340,134,591,"90.5",39,"6.0",11,"1.7"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2016_34.pdf",2016,"12",118,844,19,439,"52.0",405,"48.0",391,152,613,"89.9",46,"6.7",12,"1.7"
