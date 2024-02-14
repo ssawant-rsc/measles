@@ -1,85 +1,85 @@
-"url_bulletins","year","month","code_region","name_region","lat","lon","new_unclassified_cases","total_unclassified_cases","new_no_cases","total_no_cases","new_possible_cases","total_possible_cases","new_probable_cases","total_probable_cases","new_confirmed_cases","total_confirmed_cases","new_cases","total_cases","incidence"
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,1,"Piedmont",45.0732745,7.680687483,0,0,0,0,3,3,0,0,3,3,6,6,1.6
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,2,"Aosta Valley",45.73750286,7.320149366,0,0,0,0,0,0,0,0,0,0,0,0,0
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,3,"Lombardy",45.46679409,9.190347404,0,0,2,2,0,0,1,1,3,3,4,4,0.5
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,21,"AP Bolzano",46.49933453,11.35662422,1,1,0,0,0,0,0,0,0,0,0,0,0
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,22,"AP Trento",46.06893511,11.12123097,0,0,0,0,0,0,0,0,0,0,0,0,0
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,5,"Veneto",45.43490485,12.33845213,0,0,0,0,0,0,1,1,3,3,4,4,1
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,6,"Friuli-Venezia Giulia",45.6494354,13.76813649,0,0,0,0,0,0,0,0,0,0,0,0,0
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,7,"Liguria",44.41149315,8.9326992,1,1,0,0,5,5,2,2,6,6,13,13,10
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,8,"Emilia-Romagna",44.49436681,11.3417208,0,0,1,1,0,0,0,0,1,1,1,1,0.3
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,9,"Tuscany",43.76923077,11.25588885,0,0,1,1,0,0,1,1,7,7,8,8,2.6
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,10,"Umbria",43.10675841,12.38824698,0,0,0,0,0,0,0,0,0,0,0,0,0
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,11,"Marche",43.61675973,13.5188753,0,0,0,0,0,0,0,0,0,0,0,0,0
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,12,"Lazio",41.89277044,12.48366722,4,4,4,4,5,5,3,3,38,38,46,46,9.4
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,13,"Abruzzo",42.35122196,13.39843823,0,0,0,0,0,0,0,0,0,0,0,0,0
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,14,"Molise",41.55774754,14.65916051,0,0,0,0,0,0,0,0,0,0,0,0,0
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,15,"Campania",40.83956555,14.25084984,0,0,0,0,2,2,0,0,1,1,3,3,0.6
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,16,"Apulia",41.12559576,16.86736689,0,0,0,0,0,0,0,0,1,1,1,1,0.3
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,17,"Basilicata",40.63947052,15.80514834,0,0,0,0,0,0,0,0,1,1,1,1,2.1
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,18,"Calabria",38.90597598,16.59440194,0,0,0,0,2,2,0,0,14,14,16,16,9.8
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,19,"Sicily",38.11569725,13.3623566999999,5,5,0,0,9,9,13,13,39,39,61,61,14.5
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,20,"Sardinia",39.21531192,9.110616306,0,0,0,0,0,0,0,0,0,0,0,0,0
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,1,"Piedmont",45.0732745,7.680687483,0,0,2,2,1,4,0,0,1,4,2,8,1.1
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,2,"Aosta Valley",45.73750286,7.320149366,0,0,0,0,0,0,0,0,0,0,0,0,0
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,3,"Lombardy",45.46679409,9.190347404,0,0,1,3,1,1,1,2,6,9,8,12,0.7
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,21,"AP Bolzano",46.49933453,11.35662422,-1,0,1,1,0,0,0,0,1,1,1,1,1.1
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,22,"AP Trento",46.06893511,11.12123097,0,0,0,0,0,0,0,0,0,0,0,0,0
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,5,"Veneto",45.43490485,12.33845213,0,0,0,0,0,0,0,1,2,5,2,6,0.7
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,6,"Friuli-Venezia Giulia",45.6494354,13.76813649,0,0,0,0,0,0,2,2,3,3,5,5,2.5
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,7,"Liguria",44.41149315,8.9326992,0,1,2,2,-1,4,-2,0,3,9,0,13,5
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,8,"Emilia-Romagna",44.49436681,11.3417208,0,0,2,3,0,0,0,0,5,6,5,6,0.8
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,9,"Tuscany",43.76923077,11.25588885,0,0,1,2,2,2,-1,0,11,18,12,20,3.2
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,10,"Umbria",43.10675841,12.38824698,0,0,0,0,0,0,0,0,1,1,1,1,0.7
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,11,"Marche",43.61675973,13.5188753,0,0,0,0,0,0,0,0,0,0,0,0,0
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,12,"Lazio",41.89277044,12.48366722,1,5,3,7,8,13,3,6,51,89,62,108,11
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,13,"Abruzzo",42.35122196,13.39843823,0,0,0,0,0,0,0,0,2,2,2,2,0.9
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,14,"Molise",41.55774754,14.65916051,0,0,0,0,0,0,0,0,0,0,0,0,0
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,15,"Campania",40.83956555,14.25084984,0,0,0,0,5,7,1,1,4,5,10,13,1.3
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,16,"Apulia",41.12559576,16.86736689,0,0,1,1,1,1,0,0,0,1,1,2,0.3
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,17,"Basilicata",40.63947052,15.80514834,0,0,0,0,0,0,0,0,0,1,0,1,1.1
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,18,"Calabria",38.90597598,16.59440194,0,0,0,0,0,2,0,0,20,34,20,36,11
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,19,"Sicily",38.11569725,13.3623566999999,-3,2,1,1,47,56,3,16,66,105,116,177,21
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,20,"Sardinia",39.21531192,9.110616306,0,0,0,0,0,0,0,0,0,0,0,0,0
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,1,"Piedmont",45.0732745,7.680687483,0,0,2,4,1,5,0,0,1,5,2,10,0.9
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,2,"Aosta Valley",45.73750286,7.320149366,0,0,0,0,0,0,0,0,0,0,0,0,0
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,3,"Lombardy",45.46679409,9.190347404,0,0,9,12,0,1,1,3,26,35,27,39,1.6
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,21,"AP Bolzano",46.49933453,11.35662422,0,0,0,1,0,0,0,0,0,1,0,1,0.8
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,22,"AP Trento",46.06893511,11.12123097,0,0,0,0,0,0,0,0,1,1,1,1,0.7
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,5,"Veneto",45.43490485,12.33845213,0,0,4,4,0,0,0,1,13,18,13,19,1.5
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,6,"Friuli-Venezia Giulia",45.6494354,13.76813649,0,0,0,0,0,0,-1,1,2,5,1,6,2
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,7,"Liguria",44.41149315,8.9326992,0,1,0,2,0,4,0,0,4,13,4,17,4.3
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,8,"Emilia-Romagna",44.49436681,11.3417208,0,0,1,4,0,0,0,0,4,10,4,10,0.9
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,9,"Tuscany",43.76923077,11.25588885,0,0,2,4,1,3,0,0,5,23,6,26,2.8
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,10,"Umbria",43.10675841,12.38824698,0,0,0,0,0,0,0,0,0,1,0,1,0.4
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,11,"Marche",43.61675973,13.5188753,0,0,1,1,0,0,0,0,0,0,0,0,0
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,12,"Lazio",41.89277044,12.48366722,2,7,4,11,1,14,3,9,27,116,31,139,9.4
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,13,"Abruzzo",42.35122196,13.39843823,0,0,0,0,0,0,0,0,1,3,1,3,0.9
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,14,"Molise",41.55774754,14.65916051,0,0,0,0,0,0,0,0,0,0,0,0,0
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,15,"Campania",40.83956555,14.25084984,0,0,2,2,7,14,2,3,28,33,37,50,3.4
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,16,"Apulia",41.12559576,16.86736689,0,0,0,1,0,1,0,0,5,6,5,7,0.7
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,17,"Basilicata",40.63947052,15.80514834,0,0,0,0,0,0,0,0,2,3,2,3,2.1
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,18,"Calabria",38.90597598,16.59440194,0,0,0,0,19,21,1,1,12,46,32,68,13.8
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,19,"Sicily",38.11569725,13.3623566999999,11,13,4,5,41,97,17,33,168,273,226,403,31.9
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,20,"Sardinia",39.21531192,9.110616306,0,0,0,0,0,0,0,0,2,2,2,2,0.5
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,1,"Piedmont",45.0732745,7.680687483,0,0,1,5,1,6,8,8,10,15,19,29,2
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,2,"Aosta Valley",45.73750286,7.320149366,0,0,0,0,0,0,0,0,0,0,0,0,0
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,3,"Lombardy",45.46679409,9.190347404,0,0,13,25,6,7,2,5,27,62,35,74,2.2
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,21,"AP Bolzano",46.49933453,11.35662422,0,0,0,1,0,0,0,0,0,1,0,1,0.6
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,22,"AP Trento",46.06893511,11.12123097,0,0,0,0,0,0,0,0,0,1,0,1,0.6
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,5,"Veneto",45.43490485,12.33845213,0,0,1,5,1,1,-1,0,5,23,5,24,1.5
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,6,"Friuli-Venezia Giulia",45.6494354,13.76813649,0,0,0,0,0,0,0,1,0,5,0,6,1.5
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,7,"Liguria",44.41149315,8.9326992,0,1,0,2,0,4,0,0,10,23,10,27,5.2
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,8,"Emilia-Romagna",44.49436681,11.3417208,0,0,1,5,0,0,0,0,12,22,12,22,1.5
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,9,"Tuscany",43.76923077,11.25588885,0,0,1,5,0,3,1,1,8,31,9,35,2.8
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,10,"Umbria",43.10675841,12.38824698,1,1,0,0,0,0,0,0,0,1,0,1,0.3
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,11,"Marche",43.61675973,13.5188753,0,0,0,1,0,0,0,0,0,0,0,0,0
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,12,"Lazio",41.89277044,12.48366722,1,8,10,21,-1,13,0,9,20,136,19,158,8
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,13,"Abruzzo",42.35122196,13.39843823,0,0,2,2,3,3,1,1,14,17,18,21,4.8
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,14,"Molise",41.55774754,14.65916051,0,0,0,0,0,0,0,0,0,0,0,0,0
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,15,"Campania",40.83956555,14.25084984,2,2,0,2,12,26,0,3,15,48,27,77,4
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,16,"Apulia",41.12559576,16.86736689,0,0,0,1,0,1,1,1,2,8,3,10,0.7
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,17,"Basilicata",40.63947052,15.80514834,0,0,0,0,0,0,0,0,1,4,1,4,2.1
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,18,"Calabria",38.90597598,16.59440194,2,2,0,0,13,34,1,2,32,78,46,114,17.4
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,19,"Sicily",38.11569725,13.3623566999999,8,21,0,5,58,155,9,42,182,455,249,652,38.7
-"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,20,"Sardinia",39.21531192,9.110616306,0,0,0,0,0,0,0,0,0,2,0,2,0.4
+"url_bulletins","year","month","code_region","name_region","lat","lon","new_unclassified_cases","total_unclassified_cases","new_no_cases","total_no_cases","new_possible_cases","total_possible_cases","new_probable_cases","total_probable_cases","new_confirmed_cases","total_confirmed_cases","new_cases","total_cases","Unit","incidence"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,1,"Piedmont",45.0732745,7.680687483,0,0,0,0,3,3,0,0,3,3,6,6,"N/100000","1.6"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,2,"Aosta Valley",45.73750286,7.320149366,0,0,0,0,0,0,0,0,0,0,0,0,"N/100000","0"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,3,"Lombardy",45.46679409,9.190347404,0,0,2,2,0,0,1,1,3,3,4,4,"N/100000","0.5"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,21,"AP Bolzano",46.49933453,11.35662422,1,1,0,0,0,0,0,0,0,0,0,0,"N/100000","0"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,22,"AP Trento",46.06893511,11.12123097,0,0,0,0,0,0,0,0,0,0,0,0,"N/100000","0"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,5,"Veneto",45.43490485,12.33845213,0,0,0,0,0,0,1,1,3,3,4,4,"N/100000","1"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,6,"Friuli-Venezia Giulia",45.6494354,13.76813649,0,0,0,0,0,0,0,0,0,0,0,0,"N/100000","0"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,7,"Liguria",44.41149315,8.9326992,1,1,0,0,5,5,2,2,6,6,13,13,"N/100000","10"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,8,"Emilia-Romagna",44.49436681,11.3417208,0,0,1,1,0,0,0,0,1,1,1,1,"N/100000","0.3"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,9,"Tuscany",43.76923077,11.25588885,0,0,1,1,0,0,1,1,7,7,8,8,"N/100000","2.6"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,10,"Umbria",43.10675841,12.38824698,0,0,0,0,0,0,0,0,0,0,0,0,"N/100000","0"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,11,"Marche",43.61675973,13.5188753,0,0,0,0,0,0,0,0,0,0,0,0,"N/100000","0"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,12,"Lazio",41.89277044,12.48366722,4,4,4,4,5,5,3,3,38,38,46,46,"N/100000","9.4"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,13,"Abruzzo",42.35122196,13.39843823,0,0,0,0,0,0,0,0,0,0,0,0,"N/100000","0"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,14,"Molise",41.55774754,14.65916051,0,0,0,0,0,0,0,0,0,0,0,0,"N/100000","0"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,15,"Campania",40.83956555,14.25084984,0,0,0,0,2,2,0,0,1,1,3,3,"N/100000","0.6"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,16,"Apulia",41.12559576,16.86736689,0,0,0,0,0,0,0,0,1,1,1,1,"N/100000","0.3"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,17,"Basilicata",40.63947052,15.80514834,0,0,0,0,0,0,0,0,1,1,1,1,"N/100000","2.1"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,18,"Calabria",38.90597598,16.59440194,0,0,0,0,2,2,0,0,14,14,16,16,"N/100000","9.8"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,19,"Sicily",38.11569725,13.3623566999999,5,5,0,0,9,9,13,13,39,39,61,61,"N/100000","14.5"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_38.pdf",2018,1,20,"Sardinia",39.21531192,9.110616306,0,0,0,0,0,0,0,0,0,0,0,0,"N/100000","0"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,1,"Piedmont",45.0732745,7.680687483,0,0,2,2,1,4,0,0,1,4,2,8,"N/100000","1.1"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,2,"Aosta Valley",45.73750286,7.320149366,0,0,0,0,0,0,0,0,0,0,0,0,"N/100000","0"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,3,"Lombardy",45.46679409,9.190347404,0,0,1,3,1,1,1,2,6,9,8,12,"N/100000","0.7"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,21,"AP Bolzano",46.49933453,11.35662422,-1,0,1,1,0,0,0,0,1,1,1,1,"N/100000","1.1"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,22,"AP Trento",46.06893511,11.12123097,0,0,0,0,0,0,0,0,0,0,0,0,"N/100000","0"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,5,"Veneto",45.43490485,12.33845213,0,0,0,0,0,0,0,1,2,5,2,6,"N/100000","0.7"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,6,"Friuli-Venezia Giulia",45.6494354,13.76813649,0,0,0,0,0,0,2,2,3,3,5,5,"N/100000","2.5"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,7,"Liguria",44.41149315,8.9326992,0,1,2,2,-1,4,-2,0,3,9,0,13,"N/100000","5"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,8,"Emilia-Romagna",44.49436681,11.3417208,0,0,2,3,0,0,0,0,5,6,5,6,"N/100000","0.8"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,9,"Tuscany",43.76923077,11.25588885,0,0,1,2,2,2,-1,0,11,18,12,20,"N/100000","3.2"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,10,"Umbria",43.10675841,12.38824698,0,0,0,0,0,0,0,0,1,1,1,1,"N/100000","0.7"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,11,"Marche",43.61675973,13.5188753,0,0,0,0,0,0,0,0,0,0,0,0,"N/100000","0"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,12,"Lazio",41.89277044,12.48366722,1,5,3,7,8,13,3,6,51,89,62,108,"N/100000","11"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,13,"Abruzzo",42.35122196,13.39843823,0,0,0,0,0,0,0,0,2,2,2,2,"N/100000","0.9"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,14,"Molise",41.55774754,14.65916051,0,0,0,0,0,0,0,0,0,0,0,0,"N/100000","0"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,15,"Campania",40.83956555,14.25084984,0,0,0,0,5,7,1,1,4,5,10,13,"N/100000","1.3"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,16,"Apulia",41.12559576,16.86736689,0,0,1,1,1,1,0,0,0,1,1,2,"N/100000","0.3"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,17,"Basilicata",40.63947052,15.80514834,0,0,0,0,0,0,0,0,0,1,0,1,"N/100000","1.1"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,18,"Calabria",38.90597598,16.59440194,0,0,0,0,0,2,0,0,20,34,20,36,"N/100000","11"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,19,"Sicily",38.11569725,13.3623566999999,-3,2,1,1,47,56,3,16,66,105,116,177,"N/100000","21"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_39.pdf",2018,2,20,"Sardinia",39.21531192,9.110616306,0,0,0,0,0,0,0,0,0,0,0,0,"N/100000","0"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,1,"Piedmont",45.0732745,7.680687483,0,0,2,4,1,5,0,0,1,5,2,10,"N/100000","0.9"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,2,"Aosta Valley",45.73750286,7.320149366,0,0,0,0,0,0,0,0,0,0,0,0,"N/100000","0"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,3,"Lombardy",45.46679409,9.190347404,0,0,9,12,0,1,1,3,26,35,27,39,"N/100000","1.6"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,21,"AP Bolzano",46.49933453,11.35662422,0,0,0,1,0,0,0,0,0,1,0,1,"N/100000","0.8"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,22,"AP Trento",46.06893511,11.12123097,0,0,0,0,0,0,0,0,1,1,1,1,"N/100000","0.7"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,5,"Veneto",45.43490485,12.33845213,0,0,4,4,0,0,0,1,13,18,13,19,"N/100000","1.5"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,6,"Friuli-Venezia Giulia",45.6494354,13.76813649,0,0,0,0,0,0,-1,1,2,5,1,6,"N/100000","2"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,7,"Liguria",44.41149315,8.9326992,0,1,0,2,0,4,0,0,4,13,4,17,"N/100000","4.3"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,8,"Emilia-Romagna",44.49436681,11.3417208,0,0,1,4,0,0,0,0,4,10,4,10,"N/100000","0.9"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,9,"Tuscany",43.76923077,11.25588885,0,0,2,4,1,3,0,0,5,23,6,26,"N/100000","2.8"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,10,"Umbria",43.10675841,12.38824698,0,0,0,0,0,0,0,0,0,1,0,1,"N/100000","0.4"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,11,"Marche",43.61675973,13.5188753,0,0,1,1,0,0,0,0,0,0,0,0,"N/100000","0"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,12,"Lazio",41.89277044,12.48366722,2,7,4,11,1,14,3,9,27,116,31,139,"N/100000","9.4"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,13,"Abruzzo",42.35122196,13.39843823,0,0,0,0,0,0,0,0,1,3,1,3,"N/100000","0.9"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,14,"Molise",41.55774754,14.65916051,0,0,0,0,0,0,0,0,0,0,0,0,"N/100000","0"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,15,"Campania",40.83956555,14.25084984,0,0,2,2,7,14,2,3,28,33,37,50,"N/100000","3.4"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,16,"Apulia",41.12559576,16.86736689,0,0,0,1,0,1,0,0,5,6,5,7,"N/100000","0.7"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,17,"Basilicata",40.63947052,15.80514834,0,0,0,0,0,0,0,0,2,3,2,3,"N/100000","2.1"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,18,"Calabria",38.90597598,16.59440194,0,0,0,0,19,21,1,1,12,46,32,68,"N/100000","13.8"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,19,"Sicily",38.11569725,13.3623566999999,11,13,4,5,41,97,17,33,168,273,226,403,"N/100000","31.9"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_40.pdf",2018,3,20,"Sardinia",39.21531192,9.110616306,0,0,0,0,0,0,0,0,2,2,2,2,"N/100000","0.5"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,1,"Piedmont",45.0732745,7.680687483,0,0,1,5,1,6,8,8,10,15,19,29,"N/100000","2"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,2,"Aosta Valley",45.73750286,7.320149366,0,0,0,0,0,0,0,0,0,0,0,0,"N/100000","0"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,3,"Lombardy",45.46679409,9.190347404,0,0,13,25,6,7,2,5,27,62,35,74,"N/100000","2.2"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,21,"AP Bolzano",46.49933453,11.35662422,0,0,0,1,0,0,0,0,0,1,0,1,"N/100000","0.6"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,22,"AP Trento",46.06893511,11.12123097,0,0,0,0,0,0,0,0,0,1,0,1,"N/100000","0.6"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,5,"Veneto",45.43490485,12.33845213,0,0,1,5,1,1,-1,0,5,23,5,24,"N/100000","1.5"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,6,"Friuli-Venezia Giulia",45.6494354,13.76813649,0,0,0,0,0,0,0,1,0,5,0,6,"N/100000","1.5"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,7,"Liguria",44.41149315,8.9326992,0,1,0,2,0,4,0,0,10,23,10,27,"N/100000","5.2"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,8,"Emilia-Romagna",44.49436681,11.3417208,0,0,1,5,0,0,0,0,12,22,12,22,"N/100000","1.5"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,9,"Tuscany",43.76923077,11.25588885,0,0,1,5,0,3,1,1,8,31,9,35,"N/100000","2.8"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,10,"Umbria",43.10675841,12.38824698,1,1,0,0,0,0,0,0,0,1,0,1,"N/100000","0.3"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,11,"Marche",43.61675973,13.5188753,0,0,0,1,0,0,0,0,0,0,0,0,"N/100000","0"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,12,"Lazio",41.89277044,12.48366722,1,8,10,21,-1,13,0,9,20,136,19,158,"N/100000","8"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,13,"Abruzzo",42.35122196,13.39843823,0,0,2,2,3,3,1,1,14,17,18,21,"N/100000","4.8"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,14,"Molise",41.55774754,14.65916051,0,0,0,0,0,0,0,0,0,0,0,0,"N/100000","0"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,15,"Campania",40.83956555,14.25084984,2,2,0,2,12,26,0,3,15,48,27,77,"N/100000","4"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,16,"Apulia",41.12559576,16.86736689,0,0,0,1,0,1,1,1,2,8,3,10,"N/100000","0.7"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,17,"Basilicata",40.63947052,15.80514834,0,0,0,0,0,0,0,0,1,4,1,4,"N/100000","2.1"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,18,"Calabria",38.90597598,16.59440194,2,2,0,0,13,34,1,2,32,78,46,114,"N/100000","17.4"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,19,"Sicily",38.11569725,13.3623566999999,8,21,0,5,58,155,9,42,182,455,249,652,"N/100000","38.7"
+"https://github.com/fbranda/measles/blob/main/Italy/2016/bulletins/RM_News_2018_41.pdf",2018,4,20,"Sardinia",39.21531192,9.110616306,0,0,0,0,0,0,0,0,0,2,0,2,"N/100000","0.4"
