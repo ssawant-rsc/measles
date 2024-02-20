@@ -17,9 +17,11 @@ Please visit https://www.epicentro.iss.it/morbillo/bollettino for a detailed des
 
 The 'EpiSignalDetection' package allows the user to explore time series for signal detection. 
 It is specifically designed to detect possible outbreaks using infectious disease surveillance data 
-at the European Union / European Economic Area or country level (Source: https://www.ecdc.europa.eu/en/publications-data/episignaldetection-tool). 
+at the European Union / European Economic Area (EU/EEA) or country level (Source: https://www.ecdc.europa.eu/en/publications-data/episignaldetection-tool). 
 
-Our team has enriched the database, enabling global measles monitoring using the 'EpiSignalDetection' package. Through this initiative, we will be able to have a broader view of the measles epidemiological situation and act in a more timely manner to prevent and manage any outbreaks.
+Our team has developed an open-access database to monitor measles globally. Through this initiative, the 'EpiSignalDetection' package can also be used for other countries around the world and not just for EU/EEA. In this way we will be able to have a broader view of the measles epidemiological situation and intervene more promptly to prevent and manage any outbreaks. 
+
+
 
 
 The package includes:
@@ -34,7 +36,7 @@ stratified by population characteristics (see 'Population' variable).
 <br>
 
 __Fig.1 Signal detection tool for monitoring infectious diseases in TESSy__
-![](figures/app_full_screenshot20181022.png "Fig.1 Signal detection tool for monitoring measles")
+![](figures/app_full_screenshot.png "Fig.1 Signal detection tool for monitoring measles")
 
 <br>
 <br>
@@ -43,4 +45,3 @@ __Fig.1 Signal detection tool for monitoring infectious diseases in TESSy__
 __Fig.2 Report of alarms__
 ![](figures/report_screenshot.png "Fig.2 Report of alarms")
 
-...
