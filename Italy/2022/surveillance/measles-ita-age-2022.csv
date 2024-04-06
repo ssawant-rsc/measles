@@ -1,0 +1,11 @@
+"url_bulletins","year","month","age_group","Unit","cases","cases_percent","incidence","cases_with_complication","cases_with_complication_percent","cases_with_complication_percent_total"
+"https://github.com/fbranda/measles/blob/main/Italy/2022/bulletins/RM_News_2022_66.pdf",2022,11,"0_4","N/1000000",3,"19.87","1.35",NA,NA,NA
+"https://github.com/fbranda/measles/blob/main/Italy/2022/bulletins/RM_News_2022_66.pdf",2022,11,"5_14","N/1000000",1,"6.77","0.18",NA,NA,NA
+"https://github.com/fbranda/measles/blob/main/Italy/2022/bulletins/RM_News_2022_66.pdf",2022,11,"15_39","N/1000000",8,"53.28","0.51",NA,NA,NA
+"https://github.com/fbranda/measles/blob/main/Italy/2022/bulletins/RM_News_2022_66.pdf",2022,11,"40_64","N/1000000",3,"19.87","0.14",NA,NA,NA
+"https://github.com/fbranda/measles/blob/main/Italy/2022/bulletins/RM_News_2022_66.pdf",2022,11,"65+","N/1000000",0,"0.00","0.00",NA,NA,NA
+"https://github.com/fbranda/measles/blob/main/Italy/2022/bulletins/RM_News_2022_67.pdf",2022,12,"0_4","N/1000000",3,"16.59","1.35",NA,NA,NA
+"https://github.com/fbranda/measles/blob/main/Italy/2022/bulletins/RM_News_2022_67.pdf",2022,12,"5_14","N/1000000",2,"11.06","0.37",NA,NA,NA
+"https://github.com/fbranda/measles/blob/main/Italy/2022/bulletins/RM_News_2022_67.pdf",2022,12,"15_39","N/1000000",10,"55.53","0.64",NA,NA,NA
+"https://github.com/fbranda/measles/blob/main/Italy/2022/bulletins/RM_News_2022_67.pdf",2022,12,"40_64","N/1000000",3,"16.59","0.14",NA,NA,NA
+"https://github.com/fbranda/measles/blob/main/Italy/2022/bulletins/RM_News_2022_67.pdf",2022,12,"65+","N/1000000",0,"0.00","0.00",NA,NA,NA
