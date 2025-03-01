@@ -59,5 +59,3 @@
 	</tbody>
 </table>
 
-<hr />
-<h5>Texas Measles Outbreak</h5>
