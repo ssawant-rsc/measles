@@ -56,6 +56,10 @@
 			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);"><strong>February 28, 2025</strong></td>
 			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);"><a href="https://www.dshs.texas.gov/news-alerts/measles-outbreak-feb-28-2025" target="_blank">The TSDHS reports that there are now 146 measles cases identified in the South Plains region since late January; 20 cases have been hospitalized. Five cases are at least partially vaccinated, the rest were either unvaccinated or have unknown vaccination status. The outbreak is now involving 9 counties in northwest Texas: Gaines (98), Terry (21), Dawson (8), Yoakum (6), Dallum (4), Martin (3), Ector (2), Lubbock (2), Lynn (2).</a></td>
 		</tr>
+		<tr>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);"><strong>March 4, 2025</strong></td>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);"><a href="https://www.cidrap.umn.edu/measles/cdc-team-assisting-texas-measles-outbreak-case-total-rises" target="_blank">The TSDHS reports that there are now 159 measles cases identified in the South Plains region since late January; 22 cases have been hospitalized. The latest cases were in the following counties: Gaines (9), Terry (1), Dawson (1), Yoakum (1), Lubbock (1). All new cases have been unvaccinated or unknown vaccination status.</a></td>
+		</tr>
 	</tbody>
 </table>
 
