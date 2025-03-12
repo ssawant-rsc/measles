@@ -60,6 +60,18 @@
 			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);"><strong>March 4, 2025</strong></td>
 			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);"><a href="https://www.cidrap.umn.edu/measles/cdc-team-assisting-texas-measles-outbreak-case-total-rises" target="_blank">The TSDHS reports that there are now 159 measles cases identified in the South Plains region since late January; 22 cases have been hospitalized. The latest cases were in the following counties: Gaines (9), Terry (1), Dawson (1), Yoakum (1), Lubbock (1). All new cases have been unvaccinated or unknown vaccination status.</a></td>
 		</tr>
+		<tr>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);"><strong>March 7, 2025</strong></td>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);"><a href="https://www.cidrap.umn.edu/measles/second-death-reported-measles-cases-climb-texas-new-mexico" target="_blank">The TSDHS reports that there are now 198 measles cases identified in the South Plains region since late January; 23 cases have been hospitalized. The latest cases were in the following counties: Gaines (30), Terry (7), Yoakum (1), Dallum (1).&nbsp;DSHS said there were other cases not associated with the West Texas outbreak. Those included two cases in Harris County, one in&nbsp;Rockwall&nbsp;and one in Travis County. These cases were all associated with international travel to a country where measles regularly spreads.</a></td>
+		</tr>
+		<tr>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);"><strong>March 11, 2025</strong></td>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);"><a href="https://www.dshs.texas.gov/news-alerts/measles-outbreak-2025" target="_blank">The TSDHS reports that there are now 223 measles cases identified in the South Plains region since late January; 29 case have been hospitalized. The latest cases were in the following counties: Gaines (19), Terry (3), Yoakum (2), Dawson (1).</a></td>
+		</tr>
+		<tr>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);"><strong>March 11, 2025</strong></td>
+			<td class="ck_border" style="border: 1px solid rgb(221, 221, 221);"><a href="https://oklahoma.gov/health/news---events/newsroom/2025/first-cases-of-measles-in-oklahoma-reported.html" target="_blank">The&nbsp;<meta charset="UTF-8" />Oklahoma State Department of Health (OSDH) reports that two confirmed measles cases in the state are linked to the West Texas outbreak after exposure to known cases.</a></td>
+		</tr>
 	</tbody>
 </table>
 
