@@ -1,0 +1,115 @@
+---
+title: "Data Cleaning"
+author: "Shonushka Sawant"
+format: 
+  html:
+    self-contained: true
+---
+
+```{r}
+library(dplyr)
+library(tidyr)
+library(rstatix)
+library(ggplot2)
+```
+
+```{r}
+mmr_cov <- read.csv("USA/data/all/measles-USA-by-mmr-coverage.csv")
+head(mmr_cov)
+```
+
+
+```{r}
+drop_na.tbl_ts <- function(ts)  tsibble::as_tsibble(tidyr:::drop_na.data.frame(ts))
+```
+
+```{r}
+
+#drop rows with NA for vaccine percentage
+mmr_cov <- mmr_cov %>% drop_na(estimate_pct)
+
+#create a column with percent cast to numeric
+mmr_cov$num_pct <- mmr_cov$estimate_pct
+
+mmr_cov$num_pct <- as.numeric(sub("%","",mmr_cov$num_pct))/100
+```
+
+```{r}
+#summary statistics for vaccine coverage, per state
+group_by(mmr_cov, geography) %>% 
+  get_summary_stats(num_pct)
+```
+
+```{r}
+head(mmr_cov)
+```
+```{r}
+#summary statistics for vaccine coverage, per year
+summ_year <- group_by(mmr_cov, school_year) %>% 
+  get_summary_stats(num_pct)
+
+summ_year
+```
+
+```{r}
+#plot median vaccination rate by year
+
+summ_year %>%
+  tail(10) %>%
+  ggplot( aes(x=school_year, y=median)) +
+    geom_line(color="black") +
+    geom_point()
+```
+
+Median vaccination rates among states in the USA appear to be showing a downward trend starting from the 2019-20200 school year. We will now look at the trajectories for the states with the lowest vaccination rates in 2023-2024.
+
+```{r}
+mmr_cov2023 <- mmr_cov %>% filter(school_year == "2023-24")
+head(mmr_cov2023 %>% arrange(num_pct))
+```
+
+The states with the five lowest vaccination rates are Idaho (79.6%), Alaska (84.3%), Wisconsin (84.8%), Minnesota (87.0%), and Florida (88.1%).
+
+Compare these rates to the 2009-10 school year:
+
+```{r}
+low_2023 <- c("Idaho", "Alaska", "Wisconsin", "Minnesota", "Florida")
+mmr_cov2009 <- mmr_cov %>% filter(geography %in% low_2023, school_year == "2009-10")
+mmr_cov2009 %>% arrange(num_pct)
+```
+
+Vaccination rates for these states were notably higher in 2009-10 (excepting Alaska, which did not report its vaccination rate that year.)
+
+```{r}
+
+mmr_cov_low <- mmr_cov %>% filter(geography %in% low_2023)
+ggplot(mmr_cov_low, aes(geography, num_pct, fill = geography)) +
+  geom_boxplot() +
+  geom_jitter(width = 0.2) +
+  guides(fill = "none") +
+  labs(x = "", y = "Vaccination rate")
+```
+
+Wisconsin and Alaska show the greatest variation in vaccination rates, of the five states with the lowest rates in 2023-24.
+
+```{r}
+#at this point we will add a numeric column for the dates.
+mmr_cov$num_years <- substr(mmr_cov$school_year, 1, 4)
+mmr_cov$num_years <- as.numeric(mmr_cov$num_years)
+
+head(mmr_cov)
+```
+
+```{r}
+#fitting linear mixed effects model.
+#this is inaccurate, just for practice with lmer for now.
+library(lme4)
+lin_0 <- lmer(num_years ~ 1 + (1 | geography), data = mmr_cov)
+summary(lin_0)
+```
+
+```{r}
+library(Epi)
+ci.lin(lin_0)
+```
+
